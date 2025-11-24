@@ -3,8 +3,6 @@
 <h1>mantendo a interface limpa e padrão. Os campos de entradas são implementados com TextFiel, e o login é ativado por um elevated buton e tem um textButtom que leva o usuario a pagina de registro.</h1>
 <img width="206" height="454" alt="Captura de tela 2025-11-23 174358" src="https://github.com/user-attachments/assets/58d6ce2f-c949-484f-a853-dad38f48396c"/>
 <h1>A tela de registro foi feita pra criação de novos usuarios, como ja foi dito a cima na tela de login acontece a mesma mesma coisa no de registro, utiliza um Scaffold com cores difinida no appTema.dart como os outros.</h1>
-<img width="197" height="455" alt="Captura de tela 2025-11-23 174439" src="https://github.com/user-attachments/assets/26721d08-fd77-44e3-bc1d-d72b91f77998" />
-<img width="206" height="457" alt="Captura de tela 2025-11-23 174556" src="https://github.com/user-attachments/assets/c9deb407-6f55-41ae-b5b4-21102d6ad9e7" />
 <img width="198" height="456" alt="Captura de tela 2025-11-23 174424" src="https://github.com/user-attachments/assets/c9a7cb45-8b2b-4214-a628-e7ee2541af12" />
 <img width="197" height="455" alt="Captura de tela 2025-11-23 174439" src="https://github.com/user-attachments/assets/9f63daa0-0c96-4eff-a73a-6555f3ae6cf4" />
 <img width="206" height="457" alt="Captura de tela 2025-11-23 174556" src="https://github.com/user-attachments/assets/529f4e7a-e932-4602-bdb6-f7e122c4a1a3" />
